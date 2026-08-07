@@ -84,7 +84,7 @@
     </td>
     <td width="33%">
       <h3>Backend y datos</h3>
-      <p>Node.js, Express, Python<br />MySQL, SQLite, MongoDB</p>
+      <p>Node.js<br />MySQL, SQLite, MongoDB</p>
     </td>
     <td width="33%">
       <h3>Herramientas</h3>
@@ -103,19 +103,19 @@
       <h3>Music Stream</h3>
       <p>Plataforma interactiva de reproducción de música en streaming con gestión de playlists, reproducción continua de audio y diseño responsivo enfocado en la experiencia de usuario.</p>
       <p><strong>Stack:</strong> HTML5, CSS3, JavaScript, Git</p>
-      <a href="https://github.com/DeniseLH1/music-stream">Ver proyecto</a>
+      <a href="https://github.com/DeniseLH1/Proyecto_Stream_Music_App_Jennifer_Lopez.git">Ver proyecto</a>
     </td>
     <td width="33%">
       <h3>Tickyiyo</h3>
       <p>Plataforma web interactiva para la venta de boletos de eventos y conciertos. Incluye panel administrativo (CRUD de eventos y categorías), interfaz pública con búsqueda y filtros dinámicos, carrito de compras y almacenamiento persistente en LocalStorage.</p>
       <p><strong>Stack:</strong> HTML5, CSS3, JavaScript, LocalStorage, Git</p>
-      <a href="https://github.com/DeniseLH1/tickyiyo">Ver proyecto</a>
+      <a href="https://github.com/DeniseLH1/Proyecto_Conciertos_Lopez_Jennifer.git">Ver proyecto</a>
     </td>
     <td width="33%">
       <h3>Automatización de Justificaciones n8n</h3>
-      <p>Pipeline de automatización que procesa solicitudes vía Telegram y actualiza registros en hojas de cálculo de forma desatendida.</p>
+      <p>Automatización que procesa solicitudes vía Telegram y actualiza registros en hojas de cálculo de forma desatendida.</p>
       <p><strong>Stack:</strong> n8n, Webhooks, Telegram API, Google Sheets API</p>
-      <a href="https://github.com/DeniseLH1">Ver proyecto</a>
+      <a href="https://github.com/DeniseLH1/Proyecto_justificacion_inasistencia_Lopez_Jennifer.git">Ver proyecto</a>
     </td>
   </tr>
 </table>
