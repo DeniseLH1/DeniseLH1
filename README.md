@@ -84,7 +84,7 @@
     </td>
     <td width="33%">
       <h3>Backend y datos</h3>
-      <p>Node.js<br />MySQL, SQLite, MongoDB</p>
+      <p>Node.js, Python<br />MySQL, SQLite, MongoDB</p>
     </td>
     <td width="33%">
       <h3>Herramientas</h3>
@@ -139,3 +139,38 @@
 
 ```txt
 Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
+```
+<table>
+  <tr>
+    <td>Orden tecnico</td>
+    <td>Habilidad para la resolución lógica de problemas y la búsqueda continua de soluciones tecnológicas modernas.</td>
+  </tr>
+  <tr>
+    <td>Objetivo profesional</td>
+    <td>Consolidarme como Desarrolladora Full Stack Junior en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
+  </tr>
+</table>
+---
+
+## Contacto
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/denise-lopez-201914352/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jennifer.lopez.devgt@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+  <a href="https://github.com/DeniseLH1">
+    <img src="https://img.shields.io/badge/GitHub-DeniseLH1-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <strong>tiempo completo | Guatemala</strong>
+</div>
+
+---
+**Perfil actualizado:** 2026-08-06
