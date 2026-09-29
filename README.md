@@ -103,7 +103,7 @@
       <h3>Music Stream</h3>
       <p>Plataforma interactiva de reproducción de música en streaming con gestión de playlists, reproducción continua de audio y diseño responsivo enfocado en la experiencia de usuario.</p>
       <p><strong>Stack:</strong> HTML5, CSS3, JavaScript, Git</p>
-      <a href="https://github.com/DeniseLH1/Proyecto_Stream_Music_App_Jennifer_Lopez.git">Ver proyecto</a>
+      <a href="https://github.com/DeniseLH1/music_stream_app_Jennifer_Lopez.git">Ver proyecto</a>
     </td>
     <td width="33%">
       <h3>Tickyiyo</h3>
