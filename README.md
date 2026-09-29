@@ -115,7 +115,7 @@
       <h3>Automatización de Justificaciones n8n</h3>
       <p>Automatización que procesa solicitudes vía Telegram y actualiza registros en hojas de cálculo de forma desatendida.</p>
       <p><strong>Stack:</strong> n8n, Webhooks, Telegram API, Google Sheets API</p>
-      <a href="https://github.com/DeniseLH1/Proyecto_justificacion_inasistencia_Lopez_Jennifer.git">Ver proyecto</a>
+      <a href="https://github.com/DeniseLH1/justificacion_inasistencia.git">Ver proyecto</a>
     </td>
   </tr>
 </table>
