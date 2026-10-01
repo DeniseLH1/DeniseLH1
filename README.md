@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/DeniseLH1">
-    <img src="https://github.com/DeniseLH1/portafolio-.git?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio" />" alt="Portafolio" />
+    <img src="https://github.com/DeniseLH1/portafolio-.git" alt="Portafolio" />" alt="Portafolio" />
   </a>
   <a href="https://github.com/DeniseLH1?tab=repositories">
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
