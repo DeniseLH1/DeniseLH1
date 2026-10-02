@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://github.com/DeniseLH1">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=Desarrollo+Full+Stack+con+JavaScript+Node+y+Python;Bases+de+datos+con+MySQL+y+MongoDB;Automatizaci%C3%B3n+de+procesos+con+n8n;Git+GitHub+Flow+y+contenedores+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=22C55E&center=true&vCenter=true&width=980&lines=Desarrollo+Full+Stack+con+Node.js+Express+y+Python;Bases+de+datos+MySQL+MongoDB+PostgreSQL+y+Firebase;Automatizaci%C3%B3n+con+n8n+y+Pruebas+API+con+Postman;Docker+Git+Mantenimiento+de+Hardware+y+Rob%C3%B3tica" alt="Typing SVG" />
   </a>
 </div>
 
@@ -57,20 +57,24 @@
 
 ---
 
+---
+
 ## Stack principal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,mysql,mongodb,git,github,docker,vscode&perline=10" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,py,mysql,mongodb,postgres,firebase,git,github,docker,vscode,postman,arduino&perline=8" alt="Tech stack" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Frontend-Stack-1f2937?style=flat-square" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Stack-1f2937?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Data-Databases-1f2937?style=flat-square" alt="Data" />
-  <img src="https://img.shields.io/badge/Tools-Workflow-1f2937?style=flat-square" alt="Tools" />
+  <img src="https://img.shields.io/badge/Frontend-JavaScript%20%7C%20HTML5%20%7C%20CSS3-1f2937?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express.js%20%7C%20Python-1f2937?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/Bases%20de%20Datos-MySQL%20%7C%20MongoDB%20%7C%20PostgreSQL%20%7C%20Firebase-1f2937?style=flat-square" alt="Databases" />
+  <img src="https://img.shields.io/badge/Herramientas-Docker%20%7C%20n8n%20%7C%20Postman%20%7C%20Insomnia%20%7C%20Arduino-1f2937?style=flat-square" alt="Tools" />
 </div>
+
+---
 
 ---
 
@@ -78,17 +82,21 @@
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="25%">
       <h3>Frontend</h3>
-      <p>HTML5, CSS3, JavaScript</p>
+      <p>JavaScript, Python<br />HTML5, CSS3</p>
     </td>
-    <td width="33%">
+    <td width="25%">
       <h3>Backend y datos</h3>
-      <p>Node.js, Python<br />MySQL, SQLite, MongoDB</p>
+      <p>Node.js, Express.js, Python<br />MySQL, MongoDB, PostgreSQL, Firebase</p>
     </td>
-    <td width="33%">
-      <h3>Herramientas</h3>
-      <p>Git, GitHub, Docker, n8n, VSCode</p>
+    <td width="25%">
+      <h3>Herramientas y Automatización</h3>
+      <p>Git, GitHub, Docker, n8n<br />VS Code, Postman, Insomnia</p>
+    </td>
+    <td width="25%">
+      <h3>Hardware y Soporte</h3>
+      <p>Mantenimiento de PC/Móviles<br />Robótica (Arduino)</p>
     </td>
   </tr>
 </table>
