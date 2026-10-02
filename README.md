@@ -126,8 +126,10 @@
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DeniseLH1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DeniseLH1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DeniseLH1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeniseLH1&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
