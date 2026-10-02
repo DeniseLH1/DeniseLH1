@@ -132,7 +132,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeniseLH1&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribuciones%20recientes" alt="Contribution graph" width="98%" />
+  <img src="https://raw.githubusercontent.com/DeniseLH1/DeniseLH1/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
