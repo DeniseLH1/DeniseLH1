@@ -11,7 +11,7 @@
   <a href="https://github.com/DeniseLH1?tab=repositories">
     <img src="https://img.shields.io/badge/Proyectos-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=DeniseLH1&style=for-the-badge&color=0891b2&label=VISITAS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DeniseLH1&style=for-the-badge&color=0891b2&label=VISITAS%20PERFIL" alt="Profile views" />
 </div>
 
 <h1 align="center">Hola, soy Jennifer Denise López Hernandez</h1>
