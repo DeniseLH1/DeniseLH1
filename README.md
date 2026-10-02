@@ -132,9 +132,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.k3s.m32.dev/graph?username=DeniseLH1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="98%" />
+  <img src="https://raw.githubusercontent.com/DeniseLH1/DeniseLH1/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
- 
 
 ---
 
