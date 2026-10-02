@@ -132,8 +132,9 @@
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeniseLH1&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.k3s.m32.dev/graph?username=DeniseLH1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="98%" />
 </div>
+ 
 
 ---
 
