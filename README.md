@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/DeniseLH1/portafolio">
+  <a href="https://portafolio-jennifer-lopez.netlify.app/">
     <img src="https://img.shields.io/badge/Portafolio-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio" />
   </a>
   <a href="https://github.com/DeniseLH1?tab=repositories">
