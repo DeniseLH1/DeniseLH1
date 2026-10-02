@@ -129,12 +129,6 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=DeniseLH1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DeniseLH1/DeniseLH1/output/github-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
 ---
 
 ## Como trabajo
