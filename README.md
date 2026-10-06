@@ -19,7 +19,7 @@
 <p align="center">
   <strong>Técnico en desarrollo de Software | Node.js & Automatización de Procesos</strong>
   <br />
-  Estudiante y desarrolladora de software en formación con sólida base en tecnologías Full Stack Junior, diseño de bases de datos relacionales y NoSQL, con un fuerte enfoque en la innovación y la optimización de procesos mediante automatización.
+  Desarrolladora de software orientada a la creación de aplicaciones web escalables, integración de servicios backend, bases de datos y automatizaciones de flujos de trabajo. Apasionada por resolver problemas complejos mediante código limpio, arquitectura eficiente e interfaces intuitivas.
 </p>
 
 <div align="center">
