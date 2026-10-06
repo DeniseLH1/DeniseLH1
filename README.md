@@ -17,7 +17,7 @@
 <h1 align="center">Hola, soy Jennifer Denise López Hernandez</h1>
 
 <p align="center">
-  <strong>Desarrolladora de Software Full Stack Junior | Node.js & Automatización de Procesos</strong>
+  <strong>Técnico en desarrollo de Software | Node.js & Automatización de Procesos</strong>
   <br />
   Estudiante y desarrolladora de software en formación con sólida base en tecnologías Full Stack Junior, diseño de bases de datos relacionales y NoSQL, con un fuerte enfoque en la innovación y la optimización de procesos mediante automatización.
 </p>
@@ -35,7 +35,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>Desarrollo Web Full Stack, Automatización de Procesos</h3>
+      <h3>Desarrollo de Software , Automatización de Procesos</h3>
       <p>Desarrollo de aplicaciones web limpias y modulares siguiendo buenas prácticas.</p>
     </td>
     <td width="50%">
@@ -151,7 +151,7 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
   </tr>
   <tr>
     <td>Objetivo profesional</td>
-    <td>Consolidarme como Desarrolladora Full Stack Junior en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
+    <td>Consolidarme como un Técnico en desarrollo de Software en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
   </tr>
 </table>
 ---
