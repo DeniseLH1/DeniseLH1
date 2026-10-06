@@ -16,7 +16,7 @@
 
 <h1 align="center">Hola, soy Jennifer Denise López Hernandez</h1>
 
-<p align="center">
+<p align="justify">
   <strong>Técnico en desarrollo de Software | Node.js & Automatización de Procesos</strong>
   <br />
   Desarrolladora de software orientada a la creación de aplicaciones web escalables, integración de servicios backend, bases de datos y automatizaciones de flujos de trabajo. Apasionada por resolver problemas complejos mediante código limpio, arquitectura eficiente e interfaces intuitivas.
@@ -36,21 +36,21 @@
   <tr>
     <td width="50%">
       <h3>Desarrollo de Software , Automatización de Procesos</h3>
-      <p>Desarrollo de aplicaciones web limpias y modulares siguiendo buenas prácticas.</p>
+      <p align="justify">Desarrollo de aplicaciones web limpias y modulares siguiendo buenas prácticas.</p>
     </td>
     <td width="50%">
       <h3>Proyectos y soluciones</h3>
-      <p>Diseño, estructuración y optimización de esquemas de bases de datos relacionales y NoSQL.</p>
+      <p align="justify">Diseño, estructuración y optimización de esquemas de bases de datos relacionales y NoSQL.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>Trabajo tecnico</h3>
-      <p>Enfoque en la innovación tecnológica y la automatización creativa para resolver problemas complejos y optimizar procesos.</p>
+      <p align="justify">Enfoque en la innovación tecnológica y la automatización creativa para resolver problemas complejos y optimizar procesos.</p>
     </td>
     <td width="50%">
       <h3>Aprendizaje continuo</h3>
-      <p>Uso efectivo de control de versiones con Git/GitHub y entornos en contenedor con Docker.</p>
+      <p align="justify">Uso efectivo de control de versiones con Git/GitHub y entornos en contenedor con Docker.</p>
     </td>
   </tr>
 </table>
@@ -84,19 +84,19 @@
   <tr>
     <td width="25%">
       <h3>Frontend</h3>
-      <p>JavaScript, Python<br />HTML5, CSS3</p>
+      <p align="justify">JavaScript, Python<br />HTML5, CSS3</p>
     </td>
     <td width="25%">
       <h3>Backend y datos</h3>
-      <p>Node.js, Express.js, Python<br />MySQL, MongoDB, PostgreSQL, Firebase</p>
+      <p align="justify">Node.js, Express.js, Python<br />MySQL, MongoDB, PostgreSQL, Firebase</p>
     </td>
     <td width="25%">
       <h3>Herramientas y Automatización</h3>
-      <p>Git, GitHub, Docker, n8n<br />VS Code, Postman, Insomnia</p>
+      <p align="justify">Git, GitHub, Docker, n8n<br />VS Code, Postman, Insomnia</p>
     </td>
     <td width="25%">
       <h3>Hardware y Soporte</h3>
-      <p>Mantenimiento de PC/Móviles<br />Robótica (Arduino)</p>
+      <p align="justify">Mantenimiento de PC/Móviles<br />Robótica (Arduino)</p>
     </td>
   </tr>
 </table>
@@ -109,20 +109,20 @@
   <tr>
     <td width="33%">
       <h3>Music Stream</h3>
-      <p>Plataforma interactiva de reproducción de música en streaming con gestión de playlists, reproducción continua de audio y diseño responsivo enfocado en la experiencia de usuario.</p>
-      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript, Git</p>
+      <p align="justify">Plataforma interactiva de reproducción de música en streaming con gestión de playlists, reproducción continua de audio y diseño responsivo enfocado en la experiencia de usuario.</p>
+      <p align="justify"><strong>Stack:</strong> HTML5, CSS3, JavaScript, Git</p>
       <a href="https://github.com/DeniseLH1/music_stream_app_Jennifer_Lopez.git">Ver proyecto</a>
     </td>
     <td width="33%">
       <h3>Tickyiyo</h3>
-      <p>Plataforma web interactiva para la venta de boletos de eventos y conciertos. Incluye panel administrativo (CRUD de eventos y categorías), interfaz pública con búsqueda y filtros dinámicos, carrito de compras y almacenamiento persistente en LocalStorage.</p>
-      <p><strong>Stack:</strong> HTML5, CSS3, JavaScript, LocalStorage, Git</p>
+      <p align="justify">Plataforma web interactiva para la venta de boletos de eventos y conciertos. Incluye panel administrativo (CRUD de eventos y categorías), interfaz pública con búsqueda y filtros dinámicos, carrito de compras y almacenamiento persistente en LocalStorage.</p>
+      <p align="justify"><strong>Stack:</strong> HTML5, CSS3, JavaScript, LocalStorage, Git</p>
       <a href="https://github.com/DeniseLH1/conciertos_tickyiyo.git">Ver proyecto</a>
     </td>
     <td width="33%">
       <h3>Automatización de Justificaciones n8n</h3>
-      <p>Automatización que procesa solicitudes vía Telegram y actualiza registros en hojas de cálculo de forma desatendida.</p>
-      <p><strong>Stack:</strong> n8n, Webhooks, Telegram API, Google Sheets API</p>
+      <p align="justify">Automatización que procesa solicitudes vía Telegram y actualiza registros en hojas de cálculo de forma desatendida.</p>
+      <p align="justify"><strong>Stack:</strong> n8n, Webhooks, Telegram API, Google Sheets API</p>
       <a href="https://github.com/DeniseLH1/justificacion_inasistencia.git">Ver proyecto</a>
     </td>
   </tr>
@@ -143,38 +143,34 @@
 
 ```txt
 Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
-```
+ ```
+
 <table>
-  <tr>
-    <td>Orden tecnico</td>
-    <td>Habilidad para la resolución lógica de problemas y la búsqueda continua de soluciones tecnológicas modernas.</td>
-  </tr>
-  <tr>
-    <td>Objetivo profesional</td>
-    <td>Consolidarme como un Técnico en desarrollo de Software en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
-  </tr>
+<tr>
+<td>Orden tecnico</td>
+<td align="justify">Habilidad para la resolución lógica de problemas y la búsqueda continua de soluciones tecnológicas modernas.</td>
+</tr>
+<tr>
+<td>Objetivo profesional</td>
+<td align="justify">Consolidarme como un Técnico en desarrollo de Software en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
+</tr>
 </table>
----
-
-## Contacto
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/denise-lopez-201914352/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jennifer.lopez.devgt@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
-  </a>
-  <a href="https://github.com/DeniseLH1">
-    <img src="https://img.shields.io/badge/GitHub-DeniseLH1-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+​Contacto
+​<div align="center">
+<a href="https://www.linkedin.com/in/denise-lopez-201914352/">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:jennifer.lopez.devgt@gmail.com">
+<img src="https://img.shields.io/badge/Correo-Contacto-22c55e?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+</a>
+<a href="https://github.com/DeniseLH1">
+<img src="https://img.shields.io/badge/GitHub-DeniseLH1-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 </div>
-
-<br />
-
-<div align="center">
-  <strong>tiempo completo | Guatemala</strong>
+​<br />
+​<div align="center">
+<strong>tiempo completo | Guatemala</strong>
 </div>
+​Perfil actualizado: 2026-10-05
 
----
-**Perfil actualizado:** 2026-08-06
+
