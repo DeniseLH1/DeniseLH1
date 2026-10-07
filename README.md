@@ -155,6 +155,12 @@ Analisis -> estructura -> desarrollo -> validacion -> documentacion -> mejora
 <td align="justify">Consolidarme como un Técnico en desarrollo de Software en un entorno profesional donde pueda aportar soluciones de software innovadoras, escalables y continuar ampliando mi dominio de arquitecturas modernas.</td>
 </tr>
 </table>
+
+
+🐍 Contribuciones
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TOTO05-a/TOTO05-a/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TOTO05-a/TOTO05-a/output/github-snake.svg" /> <img alt="Serpiente recorriendo el gráfico de contribuciones" src="https://raw.githubusercontent.com/TOTO05-a/TOTO05-a/output/github-snake-dark.svg" /> </picture> </div>
+
+
 ​Contacto
 ​<div align="center">
 <a href="https://www.linkedin.com/in/denise-lopez-201914352/">
